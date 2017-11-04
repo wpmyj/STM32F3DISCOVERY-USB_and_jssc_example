@@ -1,0 +1,10 @@
+.\stm32f30x_rcc.o: ..\SPL\stm32f30x_rcc.c
+.\stm32f30x_rcc.o: ..\SPL\stm32f30x_rcc.h
+.\stm32f30x_rcc.o: ..\CMSIS\stm32f30x.h
+.\stm32f30x_rcc.o: ..\CMSIS\core_cm4.h
+.\stm32f30x_rcc.o: D:\Win\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\stm32f30x_rcc.o: ..\CMSIS\core_cmInstr.h
+.\stm32f30x_rcc.o: ..\CMSIS\core_cmFunc.h
+.\stm32f30x_rcc.o: ..\CMSIS\core_cm4_simd.h
+.\stm32f30x_rcc.o: ..\CMSIS\system_stm32f30x.h
+.\stm32f30x_rcc.o: ..\CMSIS\stm32f30x_conf.h
